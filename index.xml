@@ -6,7 +6,17 @@
     <description>Recent content on Toyking10&#39;s Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://toyking10.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://toyking10.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merry Christmas</title>
+      <link>https://toyking10.net/posts/2/2/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://toyking10.net/posts/2/2/</guid>
+      <description>Merry Christmas everyone. In the past two weeks I&amp;rsquo;ve been hard at work relaxing, eating cookies, and doing other Christmas activities. I hope Santa was kind to you all.
+I do have an update as per my development. I am still not ready to announce anything, but I have been working on some software for the past 2 weeks in my spare time along with another developer. I&amp;rsquo;m hoping to announce it by February.</description>
+    </item>
+    
     <item>
       <title>My Goals</title>
       <link>https://toyking10.net/posts/1/1/</link>
@@ -19,15 +29,6 @@ I won&amp;rsquo;t announce what I&amp;rsquo;m making yet, but I&amp;rsquo;m gett
     
     <item>
       <title></title>
-      <link>https://toyking10.net/games/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://toyking10.net/games/</guid>
-      <description>I make games. Currently, I haven&amp;rsquo;t released any. Stay tuned for future updates.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://toyking10.net/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -35,6 +36,15 @@ I won&amp;rsquo;t announce what I&amp;rsquo;m making yet, but I&amp;rsquo;m gett
       <description>I make software. Currently, I haven&amp;rsquo;t released any. Stay tuned for future updates.</description>
     </item>
     
+    
+    <item>
+      <title>Games</title>
+      <link>https://toyking10.net/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toyking10.net/games/</guid>
+      <description>I make games. Currently, I haven&amp;rsquo;t released any. Stay tuned for future updates.</description>
+    </item>
     
     
   </channel>
